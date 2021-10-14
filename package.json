@@ -1,0 +1,26 @@
+{
+  "name": "pinnata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "axios": "^0.21.1",
+    "body": "^5.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "form-data": "^4.0.0",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "multiparty": "^4.2.2",
+    "mv": "^2.1.1",
+    "mysql": "^2.18.1",
+    "parser": "^0.1.4",
+    "random": "^3.0.5"
+  }
+}
